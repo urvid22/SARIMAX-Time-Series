@@ -51,17 +51,16 @@ This project focuses on forecasting monthly **new** and **used** vehicle sales i
 
 ---
 
+## ✅ Conclusion
+
+The SARIMAX model effectively captured the seasonality and trends in Maryland’s vehicle sales. These forecasts can assist **dealers, policymakers**, and **economic analysts** in planning and decision-making.
+
+---
+
 ## 📉 Visuals
 
 - Actual vs Forecasted Sales (New & Used)
 - Extended Forecasts for 5 Years
 - Model performance plots
 
----
-
-## ✅ Conclusion
-
-The SARIMAX model effectively captured the seasonality and trends in Maryland’s vehicle sales. These forecasts can assist **dealers, policymakers**, and **economic analysts** in planning and decision-making.
-
----
 
